@@ -1,5 +1,4 @@
 import React from "react";
-import { Rectangle251 } from "../../assets";
 import Banner from "../banner/Banner";
 
 const Carousel = () => {
